@@ -1,0 +1,95 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Student">
+    <Position X="5.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAAAAhAAAAAQAABAEEgAiQAAAEAABAAAAAAAAAIgA=</HashCode>
+      <FileName>models.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Subject">
+    <Position X="9.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAABAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAgA=</HashCode>
+      <FileName>models.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Group">
+    <Position X="7.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAACAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAgA=</HashCode>
+      <FileName>models.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Grade">
+    <Position X="11" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAACAA=</HashCode>
+      <FileName>models.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Mark">
+    <Position X="12.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAggA=</HashCode>
+      <FileName>models.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Cursor">
+    <Position X="9.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAoAAAAAIAAAIAAAAAAAAAAQAAgAAEAAAAAAAAAI=</HashCode>
+      <FileName>cursor.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Crypto">
+    <Position X="11" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAIAAAAAAAAAA=</HashCode>
+      <FileName>crypto.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Date">
+    <Position X="7.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAkABAAAFEAAAAAAAAAAAAAAAQAAAABAAAAAAAAAAA=</HashCode>
+      <FileName>date.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FSManager">
+    <Position X="11" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAQCAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>fsmanager.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BaseMenu">
+    <Position X="14.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AkAAAgABAAAAAAAAAAAAAAAAAAAAAAAAAABgAAAAAAA=</HashCode>
+      <FileName>menu.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HorizontalMenu">
+    <Position X="14.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>menu.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ListingMenu">
+    <Position X="12.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>menu.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Database">
+    <Position X="16.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQQABgAAAAAAAAGAAAAAAAAAgAGAAABAAQAEAAQAgAQ=</HashCode>
+      <FileName>db.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
